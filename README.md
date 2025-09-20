@@ -62,7 +62,6 @@ jupyter notebook zepto_analysis.ipynb
 zepto_dataset/
 ├── README.md                      # Project documentation
 ├── zepto_analysis.ipynb          # Complete analysis notebook
-├── zepto_simple_analysis.ipynb   # Simplified version for resume
 ├── zepto_v2.csv                 # Raw dataset
 ├── zepto_SQL_project.sql        # Original SQL queries
 └── zepto_v1.xlsx               # Additional data files
