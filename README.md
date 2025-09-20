@@ -71,19 +71,19 @@ zepto_dataset/
 
 ### Business Intelligence Results:
 
-- **Total Products**: 3,732 across multiple categories
-- **Revenue Potential**: ₹XXX,XXX total estimated revenue
-- **Stock Status**: XX% in stock, XX% out of stock
-- **Average Discount**: XX% across all products
-- **Price Range**: ₹X.XX - ₹XXX.XX
+- **Total Products**
+- **Revenue Potential**
+- **Stock Status**
+- **Average Discount**
+- **Price Range**
 
 ### Category Performance:
-- **Top Revenue Category**: [Category Name]
-- **Highest Discount Category**: [Category Name] 
+- **Top Revenue Category**
+- **Highest Discount Category**
 - **Best Value Products**: Identified based on price-per-gram analysis
 
 ### Inventory Optimization Opportunities:
-- XX high-value products need restocking
+- high-value products need restocking
 - Weight-based categorization (Low/Medium/Bulk) for logistics optimization
 - Premium product pricing strategy recommendations
 
@@ -144,7 +144,7 @@ This project demonstrates proficiency in:
 
 For questions about this analysis or collaboration opportunities:
 
-**Satish Das**  
+**Name : Satish Das**  
 📧 dasskumar7909@gmail.com  
 
 ---
